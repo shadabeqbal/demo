@@ -51,7 +51,7 @@ if(isset($_POST['submit'])){
                 </div>
             </div>
         </div>
-        <!-- End: Simple Contact Form With Shadow - Ambrodu -->
+
     </form>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
