@@ -35,7 +35,7 @@ if(isset($_POST['submit'])){
         </div>
     </nav>
     <form method="POST">
-        <!-- Start: Simple Contact Form With Shadow - Ambrodu -->
+        
         <div class="container">
             <div class="form-row">
                 <div class="col">
